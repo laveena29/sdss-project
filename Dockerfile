@@ -1,4 +1,4 @@
-# Use Debian-based Node instead of Alpine (fixes sqlite3 build issues)
+
 FROM node:18-bullseye
 
 # Install build tools
